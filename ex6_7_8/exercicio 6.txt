@@ -1,0 +1,1 @@
+Para que a herança funcione, a classe ornitorrinco deve herdar da classe definida como Monotremados, pois é a única ordem em que os ovos são representados por mamíferos.
